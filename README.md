@@ -15,3 +15,10 @@ To run this tool, you will need Python installed on your system. Depending on ho
 You can typically install dependencies via pip:
 ```bash
 pip install -r requirements.txt
+Usage
+Place your un-tuned .wav files into the project directory.
+
+Open your terminal or command prompt and run the tuning script:
+
+Bash
+python auto_tune.py
